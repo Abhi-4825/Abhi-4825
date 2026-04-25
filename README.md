@@ -111,7 +111,7 @@
 
 ## ⚡ Current Focus
 
-- 🔥 Scaling my **Item Tracker App**
+- 🔥 Scaling my **Project Analyzer**
 - 🤖 Building **AI-powered developer tools**
 - 🚀 Preparing for **internships (May–July)**
 
