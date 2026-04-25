@@ -105,7 +105,6 @@
 ## 🌐 Connect With Me
 
 - 📧 Email: abhishekr12j@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/Abhishek Raj  
 - 📸 Instagram: https://instagram.com/_om_8405  
 
 ---
